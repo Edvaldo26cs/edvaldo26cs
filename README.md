@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Olá, eu sou [Edvaldo Cavalcanti]!
 
-<!--
-**Edvaldo26cs/edvaldo26cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor(a) [Full Stack] | Apaixonado por Tecnologia
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🛠️ Tecnologias e Ferramentas
+HTML, CSS, JAVASCRIP, PHP e BOOTSRAP;
+SQL SERVER;
+PYTHON;
+VISUAL STUDIO CODE;
+SUBLIME TEXT 3;
+SQL SERVER MAGENAMENT STUDIO;
+COLAB;
+W3SCHOOL;
+
+
+
+
+📊 Estatísticas do GitHub
+
+
+
+🎯 Sobre Mim
+Estudante de análise e desenvolvimento de sistemas, focado em desenvolvimento Web e suas funcionalidades.
+
+🔭 Atualmente, estou trabalhando com [Linguagem/estudando python]
+
+🌱 Aprendendo mais sobre [Python]
+
+💬 Me pergunte sobre [Como construir sites responsivos?]
+
+🌍 Onde Me Encontrar
+
+
+
+📫 Contato: edvaldonetto@hotmail.com
