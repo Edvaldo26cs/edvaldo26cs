@@ -4,18 +4,24 @@
 
 
 
+🛠️ Front-end
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-🛠️ Tecnologias e Ferramentas
-HTML, CSS, JAVASCRIP, PHP e BOOTSRAP;
-SQL SERVER;
-PYTHON;
-VISUAL STUDIO CODE;
-SUBLIME TEXT 3;
-SQL SERVER MAGENAMENT STUDIO;
-COLAB;
-W3SCHOOL;
+🛠️ Back-end
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+          
 
-
+🛠️ Banco de dados
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+    
+🛠️ Metodologias ágeis  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+    
+          
 
 
 📊 Estatísticas do GitHub
