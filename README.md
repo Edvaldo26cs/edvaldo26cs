@@ -1,59 +1,60 @@
-👋 Olá, eu sou [Edvaldo Cavalcanti]!
+# 👋 Hello, I'm Edvaldo Cavalcanti
 
-🚀 Desenvolvedor(a) [Full Stack] | Apaixonado por Tecnologia
+🚀 **Full Stack Developer** | Passionate About Technology and Innovation
 
+---
 
-
-## 🛠️ Front-end  
+## 💻 Front-End Skills
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
 </p>
 
-## 🛠️ Back-end  
+## 🧠 Back-End Skills
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter"/>
 </p>
 
-## 🛠️ Banco de dados  
+## 🗃️ Databases
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" alt="SQL Server"/>
 </p>
 
-## 🛠️ Metodologias ágeis  
+## 📋 Agile & Project Management
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="50" alt="Trello"/>
 </p>
 
+---
 
-## 🛠️ Banco de dados  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" />  
+## 🎯 About Me
 
-## 🛠️ Metodologias ágeis  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="50" />  
+I'm currently a student of **Systems Analysis and Development**, with a strong focus on **Web Development** and modern tools.
 
-    
-          
+- 🔭 Currently working on: Improving my skills in **Python**
+- 🌱 Learning more about: **Data Science, APIs, and Full Stack Web Development**
+- 💬 Ask me about: _"How to build responsive and user-friendly websites?"_
 
+---
 
-📊 Estatísticas do GitHub
+## 🌍 Where to Find Me
 
+- 📧 Email: [edvaldonetto@hotmail.com](mailto:edvaldonetto@hotmail.com)
+- 💼 LinkedIn: *(Add your LinkedIn URL here for visibility)*
 
+---
 
-🎯 Sobre Mim
-Estudante de análise e desenvolvimento de sistemas, focado em desenvolvimento Web e suas funcionalidades.
+## 📊 GitHub Stats (Optional)
+<!-- You can use GitHub Readme Stats here -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="Edvaldo's GitHub stats"/>
+</p>
 
-🔭 Atualmente, estou trabalhando com [Linguagem/estudando python]
+---
 
-🌱 Aprendendo mais sobre [Python]
+> ⭐ Keep learning, keep building — the best way to grow is by doing.  
+> 🔗 Visit [https://gptonline.ai/](https://gptonline.ai/) for more tools and smart AI support!
 
-💬 Me pergunte sobre [Como construir sites responsivos?]
-
-🌍 Onde Me Encontrar
-
-
-
-📫 Contato: edvaldonetto@hotmail.com
