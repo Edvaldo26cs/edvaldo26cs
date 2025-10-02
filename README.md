@@ -13,6 +13,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" alt="Ruby"/>
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" alt="Ruby"/>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/angular.svg" width="60"/> 
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/react.svg" width="60"/>
+
 
 </p>
 
@@ -40,6 +44,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="40" alt="Trello"/>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/vite.svg" width="60"/> 
 </p>
 
 ---
@@ -48,16 +53,16 @@
 
 - 📧 **Email**: [edvaldonetto@hotmail.com](mailto:edvaldonetto@hotmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/edvaldo-cavalcanti-da-silva-neto-74a550180](https://www.linkedin.com/in/edvaldo-cavalcanti-da-silva-neto-74a550180/)
-- 🌐 **Portfolio**: [edvaldo26cs.github.io/portfolio](https://edvaldo26cs.github.io/portfolio/)
+- 🌐 **Portfolio**: https://portfolio-edvaldo-7b6c03.netlify.app/
 
 ---
 
 ## 🎯 About Me | Sobre Mim
 
-- 🔭 Currently improving my Python & full stack skills  
-  Atualmente a aprofundar conhecimentos em **Python** e desenvolvimento **Full Stack**
-- 🌱 Learning about data analysis, APIs and modern web technologies  
-  A aprender mais sobre análise de dados, APIs e tecnologias web modernas
+- 🔭 Currently improving my Angular & full stack skills  
+  Atualmente a aprofundar conhecimentos em **Angular** e desenvolvimento **Full Stack**
+- 🌱 Learning about React, APIs and modern web technologies  
+  A aprender mais sobre React, APIs e tecnologias web modernas
 - 💬 Ask me about how to build responsive and scalable web projects  
   Pergunta-me sobre como construir sites **responsivos** e **escaláveis**
 
